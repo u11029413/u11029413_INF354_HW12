@@ -1,0 +1,20 @@
+!DOCTYPE html>
+<html>
+		<title>Homework 12</title>
+		<h3> INF 354 Homework 12</h3>
+<body>
+	<style>
+		body{background-color: lightgray}
+		h3	{color : white}
+	</style>
+		<?php
+		$txt = "Sibonelo Stanford Mncwabe  11029413";
+		echo "$txt";
+		?>  
+	<p>
+			<ul>
+				<li>Sibonelo Stanford Mncwabe  11029413</li>
+			</ul>
+	</p>
+</body>
+</html>
